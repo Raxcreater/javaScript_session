@@ -1,0 +1,56 @@
+1. Write a JavaScript function that reverses a number.Example x = 32243;Expected Output : 34223
+2. Write a JavaScript program to find the area of a triangle where three sides are 5, 6, 7. 
+3. Write a JavaScript program to create another string by adding "Py" in front of a given string. If the given string begins with "Py" return the original string.  
+4. Write a JavaScript program to remove a character at the specified position in a given string and return the modified string.
+5. Write a JavaScript program to check whether a given positive number is a multiple of 3 or 7.  
+6. Write a JavaScript program to find the largest of three given integers. like a =430,b= 543, c = 246
+7. Write a JavaScript program to find the closest value to 100 from two numerical values. like a=34, b=48
+8. Write a JavaScript program to reverse a given string.  
+9. Write a JavaScript program to test whether a string ends with "Script". if let string is 
+11. Write a JavaScript program to compute the sum of elements of a given array of integers.
+12. Write a JavaScript program to check whether the first and last elements are the same in a given array of integers.
+13. Write a JavaScript program to reverse the elements of a given array of integers.
+14. Write a JavaScript function to generate a random integer of length 6.
+15. Write a JavaScript function to format a number up to specified decimal places.
+16. Write a JavaScript function to find the highest value in an array.
+17. Write a JavaScript function to find the lowest value in an array.
+18. Write a JavaScript function to check whether a variable is numerical or not.
+19. Write a JavaScript function to calculate the sum of values in an array.
+20. Write a JavaScript function to check whether an input is an array or not.
+21. Write a JavaScript function to clone an array.
+22. how get the first element of an array.
+22. how get the last element of an array.
+23. Write a simple JavaScript program to join all elements of the following array into a string.
+24. Write a JavaScript program to sort the items of an array.
+25. Write a JavaScript program to remove duplicate items from an array (ignore case sensitivity).
+26. Write a JavaScript program to find duplicate values in a JavaScript array.
+27. Write a JavaScript function to sort the following array of objects by title value.
+var library = [ 
+   { author: 'Bill Gates', title: 'The Road Ahead', libraryID: 1254},
+   { author: 'Steve Jobs', title: 'Walter Isaacson', libraryID: 4264},
+   { author: 'Suzanne Collins', title: 'Mockingjay: The Final Book of The Hunger Games', libraryID: 3245}
+   ];
+30. Write a JavaScript function that merges two arrays and removes all duplicate elements.
+var array1 = [1, 2, 3];
+var array2 = [2, 30, 1];
+31. Write a JavaScript program to remove a specific element from an array.
+32. How to find an array containing a specific element.
+33. How to find not common elements in two arrays. 
+34. How to get the current date.
+35. Write a JavaScript function to get the number of days in a month.
+36. How to get the month name from a particular date.
+37. How to compare dates (i.e. greater than, less than or equal to).
+38. how to get the last day of a month.
+39. how to calculate 'yesterday's day.
+40. Write a JavaScript function that returns the number of minutes in hours and minutes.
+41. Write a JavaScript function to get the number of days in a year.
+42. Write a JavaScript function to get the number of days in a year.
+43. Write a JavaScript function to split a string and convert it into an array of words.
+44. Write a JavaScript function to extract a specified number of characters from a string.
+45. Write a JavaScript function to insert a string within a string at a particular position
+46. Write a JavaScript function to find a word within a string.
+47. Write a JavaScript function that checks whether a string ends with a specified suffix.
+48. How to convert a string to lower case and upperCase
+49. How to test whether a string starts with and ens with specified string.
+50. How to use replace and replace all on a string
+[24-10-2023 11:38] +91 8340 586 958: JavaScript Methods
